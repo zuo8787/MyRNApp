@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyApplication</string>
+    <string name="testViewName">名称：</string>
+    <string name="title_activity_my_rn">MyRNActivity</string>
+</resources>
