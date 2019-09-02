@@ -68,7 +68,7 @@ public class MyApp extends Application implements ReactApplication {
 
     @Override
     public void onTerminate() {
-        // 程序终止的时候执行。
+        // 程序终止的时候执行!
         Log.d("tag", "onTerminate");
         super.onTerminate();
     }
